@@ -2,7 +2,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "vo00/*": {
+        "vkyvenkat288/*": {
           "permissions": {
             "issues": "write"
           }
