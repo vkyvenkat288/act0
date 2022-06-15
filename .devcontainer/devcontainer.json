@@ -3,7 +3,9 @@
     "codespaces": {
       "repositories": {
         "vkyvenkat288/*": {
-            "permissions": "write-all"
+            "permissions": {
+            "issues": "write"
+          }
         }
       }
     }
