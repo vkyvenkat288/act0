@@ -4,7 +4,9 @@
       "repositories": {
         "vkyvenkat288/*": {
             "permissions": {
-            "issues": "read"
+            "issues": "read",
+              "contents":"read"
+            
           }
         }
       }
