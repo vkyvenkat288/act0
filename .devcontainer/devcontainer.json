@@ -2,7 +2,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "vkyvenkat288/Private_repo": {
+        "vkyvenkat288/*": {
             "permissions": {
             "issues": "read",
               "contents":"read"
